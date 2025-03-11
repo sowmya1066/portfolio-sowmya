@@ -1,3 +1,4 @@
+"use client";
 import {useEffect, useState} from "react";
 import { ExternalLink, Github, Code, Sparkles } from "lucide-react"
 import { motion } from "framer-motion";

@@ -9,7 +9,6 @@ const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Creative Dev Portfolio",
   description: "A fun and creative portfolio showcasing my development skills",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
@@ -27,6 +26,3 @@ export default function RootLayout({
   )
 }
 
-
-
-import './globals.css'

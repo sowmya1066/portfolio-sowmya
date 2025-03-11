@@ -1,3 +1,4 @@
+"use client";
 import { Mail, Phone, MapPin } from "lucide-react"
 import dynamic from "next/dynamic";
 import {useEffect, useState} from "react";
