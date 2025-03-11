@@ -18,7 +18,7 @@ const projects = [
   {
     title: "Next Food",
     description: "A recipe-sharing platform built with Nextjs, where users can explore community and share their favorite recipes.",
-    image: "/placeholder.svg?height=300&width=400&text=Neon+Dreams",
+    image: "/nextfood.png?height=300&width=400&text=Neon+Dreams",
     tags: ["Next.js", "Javascript", "SQLite"],
     links: {
       github: "https://github.com/sowmya1066/nextjs",

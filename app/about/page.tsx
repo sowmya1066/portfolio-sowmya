@@ -4,6 +4,8 @@ import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import dynamic from "next/dynamic";
 import { Card, CardContent } from "@/components/ui/card";
+import AboutMe from "../../public/about-section.png";
+import Image from "next/image";
 
 
 const Particles = dynamic(
@@ -116,7 +118,7 @@ useEffect(() => {
         <h1 className="text-5xl font-bold mb-8 gradient-text">About Me</h1>
          <div className="relative">
             <div className="w-64 h-64 rounded-full overflow-hidden mx-auto mb-20">
-              <img src="/placeholder.svg?height=256&width=256" alt="Alex" className="w-full h-full object-cover" />
+              <Image src={AboutMe} alt="Sowmya" className="w-full h-full object-contain" />
             </div>
             <div className="absolute top-0 left-0 w-full h-full bg-accent/20 blur-3xl -z-10"></div>
           </div>
