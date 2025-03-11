@@ -28,7 +28,7 @@ const projects = [
   {
     title: "E-commerce ShopOn",
     description: "An e-commerce shopping app built with Express.js, handling meal data retrieval and order processing via REST APIs",
-    image: "/placeholder.svg?height=300&width=400&text=Crypto+Dashboard",
+    image: "/ShopOn.png?height=300&width=400&text=Crypto+Dashboard",
     tags: ["React", "NodeJS", "ExpressJS", "RestAPIs"],
     links: {
       github: "https://github.com/sowmya1066/shopon",
@@ -38,7 +38,7 @@ const projects = [
   {
     title: "Zen List",
     description: "Create your todo's using machine learning algorithms",
-    image: "/placeholder.svg?height=300&width=400&text=AI+Art+Generator",
+    image: "/ZenList.png?height=300&width=400&text=AI+Art+Generator",
     tags: ["Python", "TensorFlow", "React"],
     links: {
       github: "https://github.com/sowmya1066/ZenList",
@@ -48,7 +48,7 @@ const projects = [
   {
     title: "Wheel Trek",
     description: "An interactive map application using Leaflet that lets users log and visualize their cycling routes and activity details.",
-    image: "/placeholder.svg?height=300&width=400&text=Crypto+Dashboard",
+    image: "/wheelTrek.png?height=300&width=400&text=Crypto+Dashboard",
     tags: ["JavaScript", "API Integration", "Leaflet"],
     links: {
       github: "https://github.com/sowmya1066/wheeltrek",
