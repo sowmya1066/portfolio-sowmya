@@ -7,7 +7,7 @@ import Navigation from "./components/Navigation"
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Creative Dev Portfolio",
+  title: "Sowmya G S",
   description: "A fun and creative portfolio showcasing my development skills",
 }
 

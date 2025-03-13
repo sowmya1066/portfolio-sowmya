@@ -377,8 +377,8 @@ export default function Home() {
                 }}
               >
                 <p className="text-lg">
-                  Hey there! I'm Alex, a creative developer with a passion for building beautiful, interactive web
-                  experiences. With 5 years of experience in the field, I love pushing the boundaries of what's possible
+                  Hey there! I'm Sowmya, a creative developer with a passion for building beautiful, interactive web
+                  experiences. With 2.6 years of experience in the field, I love pushing the boundaries of what's possible
                   on the web.
                 </p>
               </motion.div>
